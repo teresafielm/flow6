@@ -4,8 +4,6 @@ About En este repositorio se realiza la actividad, descargando el JSON de MQTT.
 
 En este repositorio se realiza la actividad, descargando el JSON de MQTT
 
-Autor del Repositorio: Victor Zuriel Dominguez Salvador
-
 Autor del ejercicio: Hugo Escalpelo
 
 Enlaces del Autor
